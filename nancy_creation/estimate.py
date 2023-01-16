@@ -104,5 +104,5 @@ class Estimation():
 
 
 
-popo = Estimation(20000, "gabon")
-print(popo.send())
+#popo = Estimation(20000, "gabon")
+#print(popo.send())
